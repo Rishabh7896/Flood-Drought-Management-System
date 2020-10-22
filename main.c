@@ -1,14 +1,6 @@
 /******************************************************************************
-                                DSA COURSE PROJECT
-Team Number: 1(one)
-Team Member 1: Rishabh Gautam
-Team Member 2: Raksha Burli
-Team Member 3: Sakshi Jha
-Team Member 4: Rohan Kumar
-Division: C(3rd semester - CSE dept)
-University:  KLE Technological University
+                     Flood and Drought Management System
 ******************************************************************************/
-
 
 /***-----------------------------------------------------------------------***/
                       /** Global Declaration Space **/
