@@ -11,7 +11,7 @@ We have taken hypothetical data of a state including the data of each city and i
 </li>
 <li>  
 <h3>Dataset:</h3>
-We have 3 data files in total.<br>
+There are 3 data files in total.<br>
   <ul>
     <li>
   <b>data.txt:</b>
